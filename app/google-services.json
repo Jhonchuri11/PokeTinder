@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841181867139",
+    "project_id": "poketinder-631bf",
+    "storage_bucket": "poketinder-631bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841181867139:android:db7dfee9ffde4f7a9affb6",
+        "android_client_info": {
+          "package_name": "com.jhon.churivanti.poketinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj48KR1lE7DVk0SAw7tgC77FhXfsBOZig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
