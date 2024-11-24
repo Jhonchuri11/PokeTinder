@@ -6,11 +6,11 @@
 
 | **Register user** | **List pokemons** |
 |:-----------------:|:------------------:|
-| ![Register user](https://github.com/Jhonchuri11/GestorDocumental_Frontend_Busqueda/blob/master/R1-app/register-user-poketinder.png) | ![List pokemons](https://github.com/Jhonchuri11/GestorDocumental_Frontend_Busqueda/blob/master/R1-app/list-favorite-pkemons.png) |
+| <img src="https://github.com/Jhonchuri11/GestorDocumental_Frontend_Busqueda/blob/master/R1-app/register-user-poketinder.png" width="300" /> | <img src="https://github.com/Jhonchuri11/GestorDocumental_Frontend_Busqueda/blob/master/R1-app/list-favorite-pkemons.png" width="300" /> |
 
 | **Card pokemons** | **Information pokemons** |
 |:-----------------:|:-----------------------:|
-| ![Card pokemons](https://github.com/Jhonchuri11/GestorDocumental_Frontend_Busqueda/blob/master/R1-app/card-pokemons.png) | ![Information pokemons](https://github.com/Jhonchuri11/GestorDocumental_Frontend_Busqueda/blob/master/R1-app/information-poketinde.png) |
+| <img src="https://github.com/Jhonchuri11/GestorDocumental_Frontend_Busqueda/blob/master/R1-app/card-pokemons.png" width="300" /> | <img src="https://github.com/Jhonchuri11/GestorDocumental_Frontend_Busqueda/blob/master/R1-app/information-poketinde.png" width="300" /> |
 
 
 
